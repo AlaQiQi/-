@@ -1,0 +1,4 @@
+@ECHO OFF
+@ECHO "ÉèÖÃmayaÎªÓ¢ÎÄ°æ"
+@SETX MAYA_UI_LANGUAGE en_US
+@PAUSE

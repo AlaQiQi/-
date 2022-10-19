@@ -1,0 +1,4 @@
+@ECHO OFF
+@ECHO "设置maya为中文版"
+@SETX MAYA_UI_LANGUAGE zh_CN
+@PAUSE
