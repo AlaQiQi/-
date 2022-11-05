@@ -1,0 +1,19 @@
+[IButton,???,"Non-Destructively Sub Divide Mesh.",
+	[IShowActions,0]
+	[IConfig,4.8]
+		[IFreeze,
+			[IPress,Tool:Morph Target:DelMT]
+			[MergeUndo]
+			[IPress,Tool:Morph Target:StoreMT]
+			[MergeUndo]
+			[IPress,Tool:Geometry:Divide]
+			[MergeUndo]
+			[IPress,Tool:Geometry:Lower Res]
+			[MergeUndo]
+			[IPress,Tool:Morph Target:Switch]
+			[MergeUndo]
+			[IPress,Tool:Geometry:Higher Res]
+		]
+	[IShowActions,-1]
+	//www.poligone.art
+,,1/4,,,]
